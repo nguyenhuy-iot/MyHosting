@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MyHosting/reacttool/draw-rectangle-text/static/css/main.94ea1547.chunk.css",
+    "main.js": "/MyHosting/reacttool/draw-rectangle-text/static/js/main.67a27dc2.chunk.js",
+    "main.js.map": "/MyHosting/reacttool/draw-rectangle-text/static/js/main.67a27dc2.chunk.js.map",
+    "runtime-main.js": "/MyHosting/reacttool/draw-rectangle-text/static/js/runtime-main.ccbacac9.js",
+    "runtime-main.js.map": "/MyHosting/reacttool/draw-rectangle-text/static/js/runtime-main.ccbacac9.js.map",
+    "static/css/2.4dca5ddc.chunk.css": "/MyHosting/reacttool/draw-rectangle-text/static/css/2.4dca5ddc.chunk.css",
+    "static/js/2.745b94f1.chunk.js": "/MyHosting/reacttool/draw-rectangle-text/static/js/2.745b94f1.chunk.js",
+    "static/js/2.745b94f1.chunk.js.map": "/MyHosting/reacttool/draw-rectangle-text/static/js/2.745b94f1.chunk.js.map",
+    "static/js/3.a49e9c3f.chunk.js": "/MyHosting/reacttool/draw-rectangle-text/static/js/3.a49e9c3f.chunk.js",
+    "static/js/3.a49e9c3f.chunk.js.map": "/MyHosting/reacttool/draw-rectangle-text/static/js/3.a49e9c3f.chunk.js.map",
+    "index.html": "/MyHosting/reacttool/draw-rectangle-text/index.html",
+    "static/css/2.4dca5ddc.chunk.css.map": "/MyHosting/reacttool/draw-rectangle-text/static/css/2.4dca5ddc.chunk.css.map",
+    "static/css/main.94ea1547.chunk.css.map": "/MyHosting/reacttool/draw-rectangle-text/static/css/main.94ea1547.chunk.css.map",
+    "static/js/2.745b94f1.chunk.js.LICENSE.txt": "/MyHosting/reacttool/draw-rectangle-text/static/js/2.745b94f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccbacac9.js",
+    "static/css/2.4dca5ddc.chunk.css",
+    "static/js/2.745b94f1.chunk.js",
+    "static/css/main.94ea1547.chunk.css",
+    "static/js/main.67a27dc2.chunk.js"
+  ]
+}
